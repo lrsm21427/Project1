@@ -1,0 +1,8 @@
+﻿  源.cpp
+C:\Users\86180\Desktop\Project1\basic.h(57,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86180\Desktop\Project1\basic.h(98,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86180\Desktop\Project1\源.cpp(94,11): warning C4101: “ind”: 未引用的局部变量
+C:\Users\86180\Desktop\Project1\源.cpp(275,1): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\86180\Desktop\Project1\源.cpp(323,52): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86180\Desktop\Project1\源.cpp(333,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\86180\Desktop\Project1\x64\Debug\Project1.exe
